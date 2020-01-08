@@ -1,11 +1,17 @@
-CONTENTS OF THIS FILE
-====================
+OXWALL UNOFFICIAL
+=================
 
+ * About Oxwall Unofficial
  * About Oxwall
  * Copyright
  * Installation and Configuration
  * Appearance
  * Oxwall Store
+
+ABOUT OXWALL UNOFFICIAL
+=======================
+
+Oxwall Unofficial Collaboration is about keeping the Oxwall project alive. Providing code documentation, updates, and security patches for the community. See forum topic https://developers.oxwall.com/forum/topic/66128. The foundemental objectives is to cover most of the basic things such as fixing the PHP7 compatibility issues that has been around for years and other known bugs.
 
 ABOUT OXWALL
 ============
